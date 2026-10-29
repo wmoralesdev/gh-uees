@@ -2,7 +2,7 @@
 
 Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta página.
 
-## Walter Morales
+## Miguel Pineda
 
-- Correo: [hello@wmorales.dev](mailto:hello@wmorales.dev)
-- Sitio web: [ailabs.sv](https://ailabs.sv)
+- Correo: [mikepidev@gmail.com](mailto:mikepidev@gmail.com)
+- Sitio web: [gestock.site](https://gestock.site)
