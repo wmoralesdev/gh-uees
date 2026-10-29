@@ -6,3 +6,8 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 - Correo: [hello@wmorales.dev](mailto:hello@wmorales.dev)
 - Sitio web: [ailabs.sv](https://ailabs.sv)
+
+## Christian Contreras
+
+- Correo: [cristiavcg11@gmail.com](mailto:cristiavcg11@gmail.com)
+- Sitio web: [cvcg11](https://github.com/cvcg11)
