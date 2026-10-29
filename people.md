@@ -54,3 +54,7 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 - Correo: [mikepidev@gmail.com](mailto:mikepidev@gmail.com)
 - Sitio web: [gestock.site](https://gestock.site)
+
+## Beatriz Fuentes
+
+- Correo: [saricarias@gmail.com](mailto:saricarias@gmail.com)
