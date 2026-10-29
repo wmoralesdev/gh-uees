@@ -6,3 +6,7 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 - Correo: [hello@wmorales.dev](mailto:hello@wmorales.dev)
 - Sitio web: [ailabs.sv](https://ailabs.sv)
+
+## Beatriz Fuentes
+Correo: [saricarias@gmail.com](mailto:saricarias@gmail..com)
+
