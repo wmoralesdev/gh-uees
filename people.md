@@ -6,3 +6,9 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 - Correo: [hello@wmorales.dev](mailto:hello@wmorales.dev)
 - Sitio web: [ailabs.sv](https://ailabs.sv)
+
+
+## Willy Villatoro
+
+- Correo: [chatcitogod2025@gmail.com]
+- Sitio web: [oceanprint3d.com](https://oceanprint.com)
