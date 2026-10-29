@@ -44,3 +44,8 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 ## Pablo Castillo
 
 - Correo: [pablocast1018@gmail.com](mailto:pablocast1018@gmail.com)
+
+## Christopher Chacon
+
+- Correo: [chchacon02@gmail.com](mailto:chchacon02@gmail.com)
+- Sitio web: [ale02code](https://www.instagram.com/chacon02_?psln=MzBjbWNqcDdmYTY%3D&utm_source=qr)
