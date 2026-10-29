@@ -9,14 +9,19 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 ## Marcos Reyes
 
--correo:  [Mart503rtmt@gmail.com](mailto:Mart503rtmt@gmail.com)
--Sitio web: [prueba.com](https://prueba.com)
+- Correo: [Mart503rtmt@gmail.com](mailto:Mart503rtmt@gmail.com)
+- Sitio web: [prueba.com](https://prueba.com)
 
-## Andrea Miranda 
-- Correo: cpersonalg@gmail.com
+## Andrea Miranda
+
+- Correo: [cpersonalg@gmail.com](mailto:cpersonalg@gmail.com)
 
 ## Edgard Enmanuel Pineda Romero
 
-- Correo: edgardpineda17@gmail.com
-- Sitio web: https://perfil-edgard.vercel.app/
+- Correo: [edgardpineda17@gmail.com](mailto:edgardpineda17@gmail.com)
+- Sitio web: [https://perfil-edgard.vercel.app/](https://perfil-edgard.vercel.app/)
 
+## Willy Villatoro
+
+- Correo: [chatcitogod2025@gmail.com](mailto:chatcitogod2025@gmail.com)
+- Sitio web: [oceanprint3d.com](https://oceanprint.com)
