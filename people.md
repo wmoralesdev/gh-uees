@@ -9,3 +9,8 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 ## Andrea Miranda 
 - Correo: cpersonalg@gmail.com
+
+## Edgard Enmanuel Pineda Romero
+
+- Correo: edgardpineda17@gmail.com
+- Sitio web: https://perfil-edgard.vercel.app/
