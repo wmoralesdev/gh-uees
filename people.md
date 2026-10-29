@@ -35,3 +35,8 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 - Correo: [alexis.corletog@gmail.com](mailto:alexis.corletog@gmail.com)
 - Sitio web: [oceanprint3d.com](https://oceanprint3d.com)
+
+## Christian Contreras
+
+- Correo: [cristiavcg11@gmail.com](mailto:cristiavcg11@gmail.com)
+- Sitio web: [cvcg11](https://github.com/cvcg11)
