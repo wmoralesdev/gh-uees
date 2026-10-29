@@ -58,3 +58,8 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 ## Beatriz Fuentes
 
 - Correo: [saricarias@gmail.com](mailto:saricarias@gmail.com)
+
+## Fabio Dávila
+
+- Correo: [fabiodavila1314@gmail.com](mailto:fabiodavila1314@gmail.com)
+- Sitio web: [github.com/fabioxli](https://github.com/fabioxli)
