@@ -7,6 +7,11 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 - Correo: [hello@wmorales.dev](mailto:hello@wmorales.dev)
 - Sitio web: [ailabs.sv](https://ailabs.sv)
 
+## Marcos Reyes
+
+-correo:  [Mart503rtmt@gmail.com](mailto:Mart503rtmt@gmail.com)
+-Sitio web: [prueba.com](https://prueba.com)
+
 ## Andrea Miranda 
 - Correo: cpersonalg@gmail.com
 
@@ -14,3 +19,4 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 - Correo: edgardpineda17@gmail.com
 - Sitio web: https://perfil-edgard.vercel.app/
+
