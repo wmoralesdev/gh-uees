@@ -30,3 +30,8 @@ Personas de Ai Labs. Editá este archivo para actualizar lo que aparece en esta 
 
 - Correo: [eliasalexgg2015@gmail.com](mailto:eliasalexgg2015@gmail.com)
 - Sitio web: [oceanprint3d.com](https://oceanprint3d.com/)
+
+## Alexis Corleto
+
+- Correo: [alexis.corletog@gmail.com](mailto:alexis.corletog@gmail.com)
+- Sitio web: [oceanprint3d.com](https://oceanprint3d.com)
